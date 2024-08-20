@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio módulo 2 de PrepCourse Henry
+Tercera prueba de repositorio para modificar archivo README.md desde VS code y que se sincronice en git hub
